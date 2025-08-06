@@ -1,0 +1,7 @@
+fastapi==0.104.1 # Modern, high-performance web framework
+uvicorn[standard]==0.24.0 # ASGI server for FastAPI
+httpx==0.25.2 # Async HTTP client for Ollama integration
+pydantic==2.5.0 # Data validation and settings management
+pydantic-settings==2.1.0 # Environment-based configuration
+pytest==7.4.3 # Testing framework
+pytest-asyncio==0.21.1 # Async testing support
